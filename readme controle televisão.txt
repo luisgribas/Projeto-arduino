@@ -1,4 +1,3 @@
-Claro! Vou fornecer um exemplo de código para um controle remoto de TV usando Arduino Uno. Este exemplo usa um LED infravermelho (IR) para enviar sinais à TV e botões para selecionar diferentes comandos.
 
 ### Componentes Necessários
 
